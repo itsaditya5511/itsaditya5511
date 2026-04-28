@@ -136,85 +136,17 @@ const aditya = {
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=itsaditya5511&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=00D9FF&line=00D9FF&point=FFD700&area=true&area_color=00D9FF" width="100%" />
 </div>
 
-
-## 🌟 Featured Projects
-
-<div align="center">
-
-<a href="https://github.com/itsaditya5511/mern-project-management-repo">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=itsaditya5511&repo=mern-project-management-repo&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF&text_color=FFFFFF" />
-</a>
-<a href="https://github.com/itsaditya5511/bulk-user-system">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=itsaditya5511&repo=bulk-user-system&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF&text_color=FFFFFF" />
-</a>
-<a href="https://github.com/itsaditya5511/AWT">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=itsaditya5511&repo=AWT&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF&text_color=FFFFFF" />
-</a>
-
-</div>
-
-<br/>
-
-<table align="center">
-  <tr>
-    <td width="50%" valign="top">
-      <h3>🚀 MERN Project Management System</h3>
-      <p>A full-stack project management app with authentication, role-based access, and real-time updates.</p>
-      <p>
-        <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" />
-        <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" />
-        <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=flat-square&logo=mongodb&logoColor=white" />
-      </p>
-    </td>
-    <td width="50%" valign="top">
-      <h3>📦 Bulk User System</h3>
-      <p>Bulk user import/export system with CSV processing and robust validation.</p>
-      <p>
-        <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" />
-        <img src="https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white" />
-        <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=flat-square&logo=mongodb&logoColor=white" />
-      </p>
-    </td>
-  </tr>
-</table>
-
-
 ## 🐍 Contribution Snake
 
 <div align="center">
   <img src="https://raw.githubusercontent.com/itsaditya5511/itsaditya5511/output/github-contribution-grid-snake-dark.svg" />
 </div>
 
-> 💡 *To enable the snake animation, add the [Snake GitHub Action](https://github.com/Platane/snk) to your repo.*
-
-
 ## 💬 Quote of the Day
 
 <div align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" />
 </div>
-
-
-## 🤝 Let's Connect & Build Together
-
-<div align="center">
-  <p><i>I'm always open to interesting conversations, collaborations, and building cool things together!</i></p>
-  
-  <a href="mailto:adishinde2008@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-  <a href="https://www.linkedin.com/in/aditya-shinde-9b8236241/">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="https://aditya-developer-portfolio.vercel.app/">
-    <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white" />
-  </a>
-  <a href="https://github.com/itsaditya5511">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
-</div>
-
-<br/>
 
 <!-- ===== ANIMATED FOOTER ===== -->
 <div align="center">
