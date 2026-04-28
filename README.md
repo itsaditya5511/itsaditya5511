@@ -9,7 +9,6 @@
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=700&lines=Hi+there%2C+I'm+Aditya+%F0%9F%91%8B;Full-Stack+MERN+Developer;Java+%26+Spring+Boot+Enthusiast;Building+Scalable+Web+Applications;Always+Learning%2C+Always+Building+%F0%9F%9A%80" alt="Typing SVG" />
   </a>
 </div>
-
 <br/>
 
 <!-- ===== SOCIAL BADGES ===== -->
@@ -38,9 +37,6 @@
 </div>
 
 <br/>
-
-<!-- ===== ANIMATED LINE DIVIDER ===== -->
-<img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" width="100%">
 
 ## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"> About Me
 
@@ -78,9 +74,6 @@ const aditya = {
 
 <br clear="right"/>
 
-<!-- ===== ANIMATED LINE DIVIDER ===== -->
-<img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" width="100%">
-
 ## 🛠️ Tech Arsenal
 
 <div align="center">
@@ -112,8 +105,6 @@ const aditya = {
 
 </div>
 
-<!-- ===== ANIMATED LINE DIVIDER ===== -->
-<img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" width="100%">
 
 ## 📊 GitHub Analytics
 
@@ -145,8 +136,6 @@ const aditya = {
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=itsaditya5511&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=00D9FF&line=00D9FF&point=FFD700&area=true&area_color=00D9FF" width="100%" />
 </div>
 
-<!-- ===== ANIMATED LINE DIVIDER ===== -->
-<img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" width="100%">
 
 ## 🌟 Featured Projects
 
@@ -189,8 +178,6 @@ const aditya = {
   </tr>
 </table>
 
-<!-- ===== ANIMATED LINE DIVIDER ===== -->
-<img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" width="100%">
 
 ## 🐍 Contribution Snake
 
@@ -200,8 +187,6 @@ const aditya = {
 
 > 💡 *To enable the snake animation, add the [Snake GitHub Action](https://github.com/Platane/snk) to your repo.*
 
-<!-- ===== ANIMATED LINE DIVIDER ===== -->
-<img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" width="100%">
 
 ## 💬 Quote of the Day
 
@@ -209,8 +194,6 @@ const aditya = {
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" />
 </div>
 
-<!-- ===== ANIMATED LINE DIVIDER ===== -->
-<img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" width="100%">
 
 ## 🤝 Let's Connect & Build Together
 
